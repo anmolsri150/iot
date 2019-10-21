@@ -1,0 +1,1 @@
+By connecting the VCC to breadboard, we can generate multiple VCC's
