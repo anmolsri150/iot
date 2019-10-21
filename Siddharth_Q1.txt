@@ -1,0 +1,1 @@
+Connect a PWM pin to a breadboard,which can be used to connect multiple sensors and acuators.
