@@ -1,0 +1,1 @@
+By connecing one pin to breadboard using it to send signals to multiple parts.
