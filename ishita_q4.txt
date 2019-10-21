@@ -1,0 +1,1 @@
+PWM stands for Pulse Width Modulation technique , It is used to convert the digital signal into an analog by varying the width of the Pulse .
