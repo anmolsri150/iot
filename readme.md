@@ -13,3 +13,11 @@ Q3) On what voltage does Wireless modules operate?
 
 
 Q4) What do you mean by PWM pins?
+
+
+
+
+
+
+
+Seperate file for seperate answers
