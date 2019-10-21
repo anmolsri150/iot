@@ -1,0 +1,1 @@
+PWM pins are used to regulate duty cycle of Pulse in signals. Duty cycles are used to regulate different motor movements speeds.
