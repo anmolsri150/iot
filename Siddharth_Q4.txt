@@ -1,0 +1,1 @@
+Pulse Width Modulation.To get an  analog output with digital input.
