@@ -1,0 +1,1 @@
+Wireless modules operates on 3.3V
