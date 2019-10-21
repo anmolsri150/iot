@@ -1,0 +1,1 @@
+1. Arduino users know that the pins are labeled as digital 0-13 and analog 0-5
