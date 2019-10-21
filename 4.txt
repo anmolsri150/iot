@@ -1,0 +1,1 @@
+pulse width modulation , for controlling the duration of on and off action.
